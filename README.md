@@ -86,7 +86,7 @@ Deal with the slimes that Grobb places into the middle of the room whenever.
 
 **a.** Tanks FAP and facepull these.  Bolt once or twice and move to start pulling the pats in the next room.
 
-**b.** There are two Bile Retchers patting around the orange path in opposite direction.  Pull these whenever you have the chance.  They seem to have a small aggro radius with the side packs.
+**b.** There are two Bile Retchers patting around the orange path in opposite directions.  Pull these whenever you have the chance.  They seem to have a small aggro radius with the side packs.
 
 **c.** Raid runs onto this pack to reduce time until its knocks up.
 
@@ -96,7 +96,9 @@ Deal with the slimes that Grobb places into the middle of the room whenever.
 
 This skip sucks.  Regardless of whether you got the Retcher labelled D above, you can attempt to skip the 4 abom pack.  A tank needs to be ready to pick up any chained trash.  Turn on track undead and make sure that if there is a Sludge Belcher in the next room, they are around the 11 oclock position.  If they are not, you risk chaining the four pack to your right.  Either hug the corner and tag a slime or volley such that it just tags a slime (crimson on diagram).  Return to your raid in the south corner of the room.
 
-If the Sludge Belcher is in a shitty position, it is faster and far safer to clear the four pack to your right first.
+If the Sludge Belcher is in a shitty position, it is faster and far safer to clear the four pack to your right first.  
+
+If all goes to shit and you do chain-- run out of the wing to reset most of the mobs.
 
 ![](./abom_3.png)
 
@@ -109,8 +111,8 @@ Pull any nearby pats and the 4 pack before your raid crosses.  Call for the raid
 **b.** Pull these to where the raid just killed A.
 
 **c.** If Grobbulus is upstairs your raid can take these under the lip where they are.  If Grob is standing in the middle of the room your raid can either: 
-- Have your whole raid run along the eastern wall and take the pack where the westmost one stands; if Grobb begins patting away from the center of the room he may aggro onto the raid.
-- Eye of the Beast your pet along the east wall and aggro, run it back towards you and then back towards the corner to stack the adds better together.  You're trying to give the east mob as much time to clear Grobb so that once your pet dies/you recall it, the mob doesn't cut the corner and aggro Grob.  I'd recommend trying this on PTR first.
+- Have your whole raid run along the western wall and take the pack where the westmost one stands.
+- Eye of the Beast your pet along the west wall and aggro, run it back towards you and then back towards the corner to stack the adds better together.  You're trying to give the east mob as much time to clear Grobb so that once your pet dies/you recall it, the mob doesn't cut the corner and aggro Grob.  I'd recommend trying this on PTR first.
 - cry and wait.
 
 **d?** If you've cleared the room and Grobb is up top, have the whole raid move onto him.  Have your tank grab him and immediately face him down the ramp hugging the outer wall.
